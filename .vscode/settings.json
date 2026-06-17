@@ -1,0 +1,6 @@
+{
+  "markdown.marp.themes": [
+    "./theme/hci-purple.css"
+  ],
+  "markdown.marp.strictPathResolutionDuringExport": true
+}
